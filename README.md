@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![GitHub Logo](/"C:\Users\Blaze\Pictures\Saved Pictures\String-Lake-at-Night-_-Kingham_web.jpg")
+[Link](url) and ![GitHub Logo](https://images.unsplash.com/photo-1534237403689-59d169673edc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
 
 ```
 
